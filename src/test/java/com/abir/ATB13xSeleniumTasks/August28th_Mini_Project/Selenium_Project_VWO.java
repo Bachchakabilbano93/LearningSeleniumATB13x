@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Selenium_Project_VWO {
+public class  Selenium_Project_VWO {
 
     @Description("Selenium Mini Project 2.5")
     @Owner("Abir Bhattacharya")
