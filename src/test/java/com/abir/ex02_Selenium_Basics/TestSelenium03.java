@@ -1,4 +1,4 @@
-package com.abir.ex_02_Selenium_Basics;
+package com.abir.ex02_Selenium_Basics;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;

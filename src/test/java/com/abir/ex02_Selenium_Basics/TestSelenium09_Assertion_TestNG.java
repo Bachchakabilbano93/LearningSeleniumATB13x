@@ -1,4 +1,4 @@
-package com.abir.ex_02_Selenium_Basics;
+package com.abir.ex02_Selenium_Basics;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.WebDriver;

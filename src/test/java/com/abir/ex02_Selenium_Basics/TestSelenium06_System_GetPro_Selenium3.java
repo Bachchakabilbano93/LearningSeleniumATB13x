@@ -1,4 +1,4 @@
-package com.abir.ex_02_Selenium_Basics;
+package com.abir.ex02_Selenium_Basics;
 
 public class TestSelenium06_System_GetPro_Selenium3 {
     public static void main(String[] args) {

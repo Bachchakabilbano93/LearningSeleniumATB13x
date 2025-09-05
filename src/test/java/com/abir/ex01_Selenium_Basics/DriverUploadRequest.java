@@ -1,4 +1,4 @@
-package com.abir.ex_01_Selenium_Basics;
+package com.abir.ex01_Selenium_Basics;
 
 import java.io.File;
 
